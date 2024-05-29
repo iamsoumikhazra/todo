@@ -1,3 +1,5 @@
+![image](diagram-export-5-30-2024-12_25_53-AM.png)
+
 # TODO / Notes Taking App Shared System
 
 # Technical Design Document
